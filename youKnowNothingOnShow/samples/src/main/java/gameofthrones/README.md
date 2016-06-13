@@ -1,2 +1,6 @@
 #Game of Thrones Companion
 ![Title Page](/title_screen.png)
+
+I built this as a solo project in 24 hours from May 14th-May 15th 2016, as part of the WeHack Hackathon at Tune.  This was my first attempt at building a skill for the Amazon Echo, and I had one months worth of Java experience under my belt when I wrote it.  My goal was to create a skill that readers of the Song of Ice and Fire series could use when watching Game of Thrones with their non-book-reading loved ones.  Whenever your loved one asked you "wait who's that guy?", you could ask your Echo to explain who the character was so that you could go on watching your show.  I rewrote the "Tide Pooler" template from the Alexa Skill Kit to work with specific Game of Thrones related behaviors and to query an API of the Song of Ice and Fire Wiki*.
+
+*This project is VERY VERY BETA.  I'm still working on getting the wonderful [API of Ice and Fire](https://anapioficeandfire.com/) to work with my API calls, and had to hard code some data for the purposes of demoing by the end of the hackathon.  Currently the hardcoded project works successfully when deployed to the Echo through AWS, but I would like to add the API feature back on in the future.
