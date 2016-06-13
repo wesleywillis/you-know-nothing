@@ -1,0 +1,8 @@
+GetBasicCharacterInfo who is {character}
+GetBasicCharacterInfo tell me about {character}
+GetBasicCharacterInfo tell Dillon who {character} is
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
